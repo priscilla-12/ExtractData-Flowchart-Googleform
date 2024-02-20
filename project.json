@@ -1,0 +1,161 @@
+{
+  "name": "SequenceConditionFlowchartWhile",
+  "projectId": "ec2c79ab-a252-4a3f-b883-bc5e28db147c",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.23.0-preview]",
+    "UiPath.Mail.Activities": "[1.22.1]",
+    "UiPath.PDF.Activities": "[3.17.0-preview]",
+    "UiPath.System.Activities": "[23.12.0-preview]",
+    "UiPath.Testing.Activities": "[23.12.0-preview]",
+    "UiPath.UIAutomation.Activities": "[23.12.0-preview]",
+    "UiPath.Word.Activities": "[1.19.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.12.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "279a73f7-b51a-401b-8d97-96574e0bbc3e",
+        "testCaseType": "TestCase",
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0bfebc11-ab33-4e23-8134-0bad4176115e",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "If Else Condition.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5edc90e5-6f7c-4d8b-99f0-63d2f1bd152d",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Switch_Condition.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "6945aa0b-8095-4232-ae2b-b4cae20f5cda",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "WhileLoop.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0bbb151b-b3b5-41f5-9238-adfd845d04a9",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "DoWhile.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b4f50138-a494-452c-b9b7-e252fdf079ac",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "ForEach Row in DataTable.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "138045c0-4d4f-4cd9-bebd-2ae403a5a8bc",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "ExtractData.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "387014ac-8f2e-4324-ada1-12f32af9d3e5",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "MoveFilesfromSourcetoDestination.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "7168d8b8-5a30-4e1b-a108-46b3a357187f",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Email_UseCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "851bb416-30aa-4fb7-80a3-e13e795e92df",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "GoogleForm.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "af20475c-83f6-4362-9628-3ab6aad6fb90",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "EmailAttachment.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "00f577f9-f934-46b0-9ecf-d246252dccd9",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "For_Each.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "0573ced7-f0a2-48b1-ba80-05413b192183",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "PDFAutomation.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "3e0d21ff-09d3-4d3b-b3e5-294e9a66b9bd",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "BrowseFile.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "0317e83e-8542-46b6-85ee-1c4e4ed8a01f",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "ChromeIncognitoWindow.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

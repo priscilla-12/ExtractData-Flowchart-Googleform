@@ -1,0 +1,18 @@
+Execution
+Test
+Report
+Created on 12.01.2022
+
+Tricentis Tosca™ 14.0
+Page 1 of 5Execution Summary
+
+TestCases total 11 100 %
+Passed 11 100.0%
+
+SumUp Chart
+
+11
+
+Passed
+
+ExecutionEntries with ActualLog Page 2 of 5
